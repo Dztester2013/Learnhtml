@@ -1,0 +1,125 @@
+body
+{
+	background: #FFF;
+	font: 95%/90% Verdana, Helvetica, sans-serif;
+	margin: 0;
+	padding: 12px 0 4px 0;
+}
+
+maincontent
+{
+    background: #FFF;
+    border: none;
+    position: relative;
+    text-align: center;
+	font-size:34;
+	color:#FFF;
+}
+ 
+#Title
+{	width:360;
+height:132;
+	font-size:60px;
+	color:#FFFFFF;
+	font-family: "New York", serif;
+	padding-top:90px;
+	margin-left:100px;
+
+}
+#Title1
+{	width:360;
+height:132;
+	font-size:60px;
+	color:#FFFFFF;
+	font-family: "New York", serif;
+	padding-top:10px;
+	margin-left:130px;
+
+}
+#Title2
+{	width:360;
+height:132;
+	font-size:60px;
+	color:#FFFFFF;
+	font-family: "New York", serif;
+	padding-top:10px;
+		margin-left:160px;
+
+	
+
+}
+#Title3
+{	width:360;
+height:132;
+	font-size:60px;
+	color:#FFFFFF;
+	font-family: "New York", serif;
+	padding-top:10px;
+		margin-left:190px}
+#txt
+{	width:360;
+height:132;
+	font-size:16px;
+	color:#FFFFFF;
+	font-family: "New York", serif;
+	padding-top:10px;
+		margin-left:100px;
+
+}
+div_left {
+	font:Verdana, Geneva, sans-serif;
+	padding:30 155 30 60;
+	color:FFFFFF;
+	
+	
+	}#div_left div .Title .Tile_name {
+		padding-right:50;
+
+	color: #FFF;
+    border: 2px;
+       
+	font-size:54px;
+	color:#FFF;
+	font-family:"MS Serif", "New York", serif;
+}
+#div_0{
+	height:90px;
+	background-color:#FFFFFF;
+	}
+#picture-size{
+	width:491;
+	height:600px;
+	margin-right:380px;
+	}
+#picture-sizeman{
+	width:491;
+	height:600px;
+	margin-right:380px;
+}
+#logo-size{
+	width:50;
+	height:7px;
+	}
+#div_left1 {
+	width:680px;
+		height:510px;
+	background-color:#333;
+	 margin-top:-580px;
+	}
+	#div_right {
+	position:right;
+		height:510px;
+	background-color:#3F0;
+	padding-left:380px;
+	padding-bottom:-250px;
+	margin-left:680px;
+	background:url(7.jpg)
+	}
+#div_2{
+	"background-color:#333; 
+	margin-left:100px;
+	margin-top:70px;
+	}
+#header {
+	background-color:#CCC
+	}
